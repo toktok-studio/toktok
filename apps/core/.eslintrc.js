@@ -1,6 +1,6 @@
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
-  extends: ['@repo/eslint-config/nest.js'],
+  extends: ['@toktok/eslint-config/nest.js'],
   parserOptions: {
     project: 'tsconfig.json',
     tsconfigRootDir: __dirname,

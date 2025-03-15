@@ -1,0 +1,10 @@
+{
+  "name": "@toktok/shared",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "@toktok/eslint-config": "workspace:*",
+    "@toktok/typescript-config": "workspace:*",
+    "prettier": "^3.2.5"
+  }
+}
